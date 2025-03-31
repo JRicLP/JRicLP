@@ -62,7 +62,6 @@ Me chamo João Ricardo, tenho 21 anos, sou natural de Pernambuco. Atualmente, es
     height="200" 
     style="padding-right: 10px;" 
     src ="https://github-readme-stats.vercel.app/api?username=JRicLP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600"
-
   />
 
 <img 
