@@ -33,21 +33,22 @@ Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, c
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JRicLP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats"
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JRicLP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Languages"
-  />
-</div>
-
+<p align="center">
+  <a href="https://github.com/JRicLP">
+    <img 
+      width="48%" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JRicLP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/JRicLP">
+    <img 
+      width="48%" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JRicLP&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas&langs_count=6" 
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 <!--
 **JRicLP/JRicLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
