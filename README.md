@@ -1,5 +1,4 @@
 # João Ricardo
-
 **Estudante de Engenharia da Computação**
 
 Olá! Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, curso Engenharia da Computação pela Universidade de Pernambuco. Sempre fui apaixonado por tecnologia e por sua constante transformação. Tenho especial interesse por áreas como desenvolvimento Back-end, Machine Learning, redes neurais e aplicações de inteligência artificial — campos que me desafiam a buscar soluções criativas e eficientes.
@@ -24,7 +23,6 @@ Olá! Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualme
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" title="C" alt="C" width="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title="Java" alt="Java" width="40" style="margin-right: 10px;" />
@@ -34,7 +32,6 @@ Olá! Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualme
 ---
 
 ### 📊 Estatísticas GitHub
-
 <p align="center">
   <a href="https://github.com/JRicLP">
     <img 
