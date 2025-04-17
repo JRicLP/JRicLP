@@ -2,7 +2,7 @@
 
 **Student of Computer Engineering**
 
-Me chamo João Ricardo, tenho 21 anos, sou natural de Pernambuco. Atualmente, estou cursando Engenharia da Computação pela Universidade de Pernambuco. Sou fascinado pela tecnologia e sua capacidade constante de mudança e evolução. Tenho interesse em áreas como desenvolvimento Back-end, Machine Learning, desenvolvimento de Redes Neurais e aplicações de IA. 
+Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, curso Engenharia da Computação pela Universidade de Pernambuco. Sempre fui apaixonado por tecnologia e por como ela está em constante transformação. Tenho um interesse especial por áreas como desenvolvimento Back-end, Machine Learning, redes neurais e aplicações de inteligência artificial — campos que me instigam a buscar soluções criativas e eficientes. 
 
 <p align="left">
     <a href="https://github.com/JRicLP?tab=repositories&sort=stargazers">
