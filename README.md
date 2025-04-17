@@ -1,8 +1,8 @@
 # João Ricardo
 
-**Student of Computer Engineering**
+**Estudante de Engenharia da Computação**
 
-Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, curso Engenharia da Computação pela Universidade de Pernambuco. Sempre fui apaixonado por tecnologia e por como ela está em constante transformação. Tenho um interesse especial por áreas como desenvolvimento Back-end, Machine Learning, redes neurais e aplicações de inteligência artificial — campos que me instigam a buscar soluções criativas e eficientes. 
+Olá! Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, curso Engenharia da Computação pela Universidade de Pernambuco. Sempre fui apaixonado por tecnologia e por sua constante transformação. Tenho especial interesse por áreas como desenvolvimento Back-end, Machine Learning, redes neurais e aplicações de inteligência artificial — campos que me desafiam a buscar soluções criativas e eficientes.
 
 <p align="center">
   <a href="https://github.com/JRicLP?tab=repositories&sort=stargazers">
@@ -33,34 +33,21 @@ Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, c
 
 ---
 
+### 📊 Estatísticas GitHub
+
 <p align="center">
   <a href="https://github.com/JRicLP">
     <img 
       width="48%" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JRicLP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      alt="GitHub Stats"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JRicLP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=false" 
+      alt="Estatísticas do GitHub"
     />
   </a>
   <a href="https://github.com/JRicLP">
     <img 
       width="48%" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JRicLP&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas&langs_count=6" 
-      alt="Top Languages"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JRicLP&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=6&hide_border=false" 
+      alt="Linguagens mais usadas"
     />
   </a>
 </p>
-
-<!--
-**JRicLP/JRicLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
