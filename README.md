@@ -1,4 +1,4 @@
-# Olá, eu sou João Ricardo! 👋
+# Computer Engineering Student
 
 Olá! Me chamo João Ricardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, curso Engenharia da Computação pela Universidade de Pernambuco. Sempre fui apaixonado por tecnologia e por sua constante transformação. Tenho especial interesse por áreas como desenvolvimento Back-end, Machine Learning, redes neurais e aplicações de inteligência artificial — campos que me desafiam a buscar soluções criativas e eficientes.
 
