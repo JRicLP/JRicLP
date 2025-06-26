@@ -44,7 +44,7 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 ---
 
-### 🚀 Meus Projetos
+### 🚀 Principais Projetos
 
 <a href="https://github.com/JRicLP?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical" />
@@ -55,9 +55,6 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 <a href="https://github.com/JRicLP?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical" />
 </a>
-
-<p align="right">
-  <a href="https://github.com/JRicLP?tab=repositories">Ver todos os repositórios →</a>
 </p>
 
 ---
