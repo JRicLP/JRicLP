@@ -32,7 +32,7 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
   <b>Tecnologias e Frameworks:</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
-    </a>
+  </a>
 </p>
 
 <p align="left">
@@ -46,23 +46,24 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 ### 🚀 Principais Projetos
 
-<a href="https://github.com/JRicLP?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical" />
-</a>
-<a href="https://github.com/JRicLP?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical" />
-</a>
-<a href="https://github.com/JRicLP?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical" />
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/JRicLP/Last-Frontier-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical" />
+  </a>
+  <a href="https://github.com/JRicLP/Stock-Control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical" />
+  </a>
+  <a href="https://github.com/JRicLP/Pipeline-ML-ANS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical" />
+  </a>
+</div>
 
 ---
 
 ### 📬 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joão-ricardo-8454211b5" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-8454211b5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
