@@ -25,16 +25,16 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 ### 🛠️ Minhas Habilidades
 
 <p align="left">
-  <b>Linguagens de Programação:</b><br>
+  <b>Linguagens:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,bash" />
   </a>
 </p>
 
 <p align="left">
   <b>Tecnologias e Frameworks:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,pytorch" />
   </a>
 </p>
 
