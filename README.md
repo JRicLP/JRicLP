@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/JRicLP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JRicLP&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=false"/>
+    <img height="180" src="https://github-readme-stats-jet-gamma-11.vercel.app/api?username=JRicLP&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=false" />
   </a>
   <a href="https://github.com/JRicLP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRicLP&layout=compact&langs_count=7&theme=radical&hide_border=false"/>
+    <img height="180" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/top-langs/?username=JRicLP&layout=compact&langs_count=7&theme=radical&hide_border=false" />
   </a>
 </div>
 
@@ -51,13 +51,13 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 <div align="center">
   <a href="https://github.com/JRicLP/Last-Frontier-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical" />
+    <img src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical" />
   </a>
   <a href="https://github.com/JRicLP/Stock-Control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical" />
+    <img src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical" />
   </a>
   <a href="https://github.com/JRicLP/Pipeline-ML-ANS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical" />
+    <img src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical" />
   </a>
 </div>
 
