@@ -81,9 +81,6 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
   <a href="joaoricardolopes2013@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/JRicLP" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   
 </div>
 
