@@ -1,8 +1,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=João%20Ricardo&fontSize=42&fontAlignY=32&desc=Computer%20Engineering%20Student%20|%20DataScience%20|%20ML%20Enthusiast&descAlignY=51&descSize=18" />
-  
-  <img src="https://komarev.com/ghpvc/?username=JRicLP&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-</div>
 
 ## 👋 Sobre Mim
 
