@@ -1,21 +1,21 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=João%20Ricardo&fontSize=42&fontAlignY=32&desc=Computer%20Engineering%20Student%20|%20DataScience%20|%20ML%20Enthusiast&descAlignY=51&descSize=18" />
 
-## 👋 Sobre Mim
+##  Sobre Mim
 
 Olá! Me chamo **João Ricardo**, tenho 22 anos e sou de Pernambuco. Atualmente, curso **Engenharia da Computação** na Escola Politécnica de Pernambuco (UPE).
 
 Sou apaixonado por tecnologia e sua capacidade de transformar o mundo. Tenho grande interesse e foco de estudo nas seguintes áreas:
 
-- 🔧 **Desenvolvimento Back-end**
-- 🤖 **Machine Learning e DataScience**
-- 🧠 **Aplicações de Inteligência Artificial**
+-  **Desenvolvimento Back-end**
+-  **Machine Learning e DataScience**
+-  **Aplicações de Inteligência Artificial**
 
 Estou sempre em busca de desafios que me permitam criar soluções criativas e eficientes.
 
 ---
 
-## 📊 Estatísticas GitHub
+##  Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-jet-gamma-11.vercel.app/api?username=JRicLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -32,7 +32,7 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 ---
 
-## 🛠️ Minhas Habilidades
+##  Habilidades
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 ---
 
-## 🚀 Principais Projetos
+## Principais Projetos
 
 <div align="center">
   <a href="https://github.com/JRicLP/Last-Frontier-Game">
@@ -68,7 +68,7 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 ---
 
-## 📬 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
   
