@@ -18,8 +18,8 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 ##  Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-jet-gamma-11.vercel.app/api?username=JRicLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/top-langs/?username=JRicLP&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-jet-gamma-11.vercel.app/api?username=JRicLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/top-langs/?username=JRicLP&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
 <div align="center">
@@ -53,16 +53,16 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
 
 <div align="center">
   <a href="https://github.com/JRicLP/Last-Frontier-Game">
-    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
   <a href="https://github.com/JRicLP/Stock-Control">
-    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/JRicLP/Pipeline-ML-ANS">
-    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
 
