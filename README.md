@@ -7,7 +7,7 @@ Olá! Me chamo **João Ricardo**, tenho 22 anos e sou de Pernambuco. Atualmente,
 
 Sou apaixonado por tecnologia e sua capacidade de transformar o mundo. Tenho grande interesse e foco de estudo nas seguintes áreas:
 
--  **Desenvolvimento Back-end**
+-  **Desenvolvimento Backend**
 -  **Machine Learning e DataScience**
 -  **Aplicações de Inteligência Artificial**
 
