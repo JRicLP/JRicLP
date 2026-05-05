@@ -5,13 +5,13 @@
 
 Olá! Me chamo **João Ricardo**, tenho 22 anos e sou de Pernambuco. Atualmente, curso **Engenharia da Computação** na Escola Politécnica de Pernambuco (UPE).
 
-Sou apaixonado por tecnologia e sua capacidade de transformar o mundo. Tenho grande interesse e foco de estudo nas seguintes áreas:
+Sou apaixonado por tecnologia e sua capacidade de transformar o mundo e estou sempre em busca de desafios que me permitam criar soluções criativas e eficientes. Tenho grande interesse e foco de estudo nas seguintes áreas:
 
 -  **Desenvolvimento Backend**
 -  **Machine Learning e DataScience**
 -  **Aplicações de Inteligência Artificial**
 
-Estou sempre em busca de desafios que me permitam criar soluções criativas e eficientes.
+**Estudando atualmente:** Golang e Java Springboot
 
 ---
 
