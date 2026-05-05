@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=João%20Ricardo&fontSize=42&fontAlignY=32&desc=Computer%20Engineering%20Student%20|%20DataScience%20|%20ML%20Enthusiast&descAlignY=51&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=João%20Ricardo&fontSize=42&fontAlignY=32&desc=Computer%20Engineering%20Student%20|%20Backend%20Development%20|%20ML%20Enthusiast&descAlignY=51&descSize=18" />
 
 ##  Sobre Mim
 
@@ -59,10 +59,11 @@ Estou sempre em busca de desafios que me permitam criar soluções criativas e e
     <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
-
 <div align="center">
   <a href="https://github.com/JRicLP/Pipeline-ML-ANS">
     <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <a href="https://github.com/JRicLP/PIBIC-XAI-Industry5.0">
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=PIBIC-XAI-Industry5.0&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
 
