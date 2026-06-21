@@ -55,13 +55,13 @@ Sou apaixonado por tecnologia e sua capacidade de transformar o mundo e estou se
   <a href="https://github.com/JRicLP/Last-Frontier-Game">
     <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Last-Frontier-Game&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/JRicLP/Stock-Control">
-    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Stock-Control&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <a href="https://github.com/JRicLP/MyFetus">
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=MyFetus&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/JRicLP/Pipeline-ML-ANS">
-    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=Pipeline-ML-ANS&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <a href="https://github.com/JRicLP/GenAI_Ecommerce-Agent">
+    <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=GenAI_Ecommerce-Agent&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   <a href="https://github.com/JRicLP/PIBIC-XAI-Industry5.0">
     <img width="48%" src="https://github-readme-stats-jet-gamma-11.vercel.app/api/pin/?username=JRicLP&repo=PIBIC-XAI-Industry5.0&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
   </a>
