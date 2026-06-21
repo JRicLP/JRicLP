@@ -76,10 +76,7 @@ Sou apaixonado por tecnologia e sua capacidade de transformar o mundo e estou se
   <a href="https://www.linkedin.com/in/joão-ricardo-8454211b5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="joaoricardolopes2013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
+
 </div>
 
 ---
