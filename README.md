@@ -8,10 +8,10 @@ Olá! Me chamo **João Ricardo**, tenho 22 anos e sou de Pernambuco. Atualmente,
 Sou apaixonado por tecnologia e sua capacidade de transformar o mundo e estou sempre em busca de desafios que me permitam criar soluções criativas e eficientes. Tenho grande interesse e foco de estudo nas seguintes áreas:
 
 -  **Desenvolvimento Backend**
--  **Machine Learning e DataScience**
--  **Aplicações de Inteligência Artificial**
+-  **Arquitetura de Microsserviços**
+-  **Modelagem de Sistemas Explicativos**
 
-**Estudando atualmente:** Golang e Java Springboot
+**Estudando atualmente:** Java e Springboot
 
 ---
 
@@ -40,10 +40,10 @@ Sou apaixonado por tecnologia e sua capacidade de transformar o mundo e estou se
 <img src="https://skillicons.dev/icons?i=python,java,c,bash&theme=dark" />
 
 ### Tecnologias e Frameworks
-<img src="https://skillicons.dev/icons?i=mysql,pytorch,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,spring,git,docker,kafka,maven,postman,mongo&theme=dark" />
 
 ### Ferramentas e Plataformas
-<img src="https://skillicons.dev/icons?i=vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,github&theme=dark" />
 
 </div>
 
